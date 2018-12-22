@@ -1,0 +1,52 @@
+Hydro HCDP Task Approval Process
+ 
+
+These guidelines are meant to optimize the HCDP Task Approval Process.
+
+
+HCDP Committee Structure and Voting
+
+- The initial community will comprise of 2 HCDP DAs and 3 Initial Protocol Team members. For definitions please refer to the Project Hydro Bylaws (“Bylaws”) on 
+  the [Project Hydro Github](https://github.com/HydroBlockchain) 
+- The 2 HCDP DAs shall be voted for and approved by a Majority Vote as defined in the Bylaws (“Majority Vote”). 
+- The DAs may be voted out of the HCDP Committee by Majority Vote as well, which may be conducted any time but is recommended to be suggested before a DA meeting. 
+- The election voting of the 2 HCDP DAs shall be organized by the President. Any voting to expand the HCDP Committee or vote a DA out shall also be organized by 
+  the President and all DA's shall have a vote. 
+  
+  
+
+HCDP Task Creation
+
+- Any DA can create an HCDP Task, which should be done by making a copy of this form and filling it out: 
+  [https://docs.google.com/document/d/16_FwNU9BerIVCkyTaRn9qi5Y_6Hhs-CBFpfIHPNlexo/edit?usp=sharing](https://docs.google.com/document/d/16_FwNU9BerIVCkyTaRn9qi5Y_6Hhs-CBFpfIHPNlexo/edit?usp=sharing) 
+- The form should then be posted on the #hcdp DA Slack channel for review along with the title: HCDP Committee Voting, Majority Vote from HCDP committee is required for the task to be posted on Github. 
+- Owing to the Exception case pursuant to Section IV.15.d of the bylaws, the process for a DA to nominate themself is different. In this scenario, the filled form should be given to the president who 
+  should then form a quorum (based on anonymous voting) for the task. If cleared, the task should be posted in the #hcdp Slack channel for review from the Protocol Team via a Unanimous vote under the title HCDP Exception Voting. 
+  
+  
+
+HCDP Task Approval
+
+- The task approval structure is designed keeping in mind that at least one of the Protocol Team member approves the task. 
+- Any HCDP Task except those that go through HCDP Exception Voting should be approved by the HCDP Task Committee before it can be posted on the Github repository.  
+- It requires a Majority vote of the HCDP Committee members for any task whose value is below $10,000 USD in Hydro Tokens, a Super Majority vote of the HCDP Committee 
+  members for task whose value is below $30,000 USD but above $10,000 USD and a Unanimous vote of the HCDP Committee members for anything with a value greater than $30,000 USD.  
+- The voting shall take place over the span of 48 hours, during which any DA may raise objections, ask for clarity, or voice approval. 
+- During the voting period (48 hours), the President may cancel or delay the vote for a further date if he or she deems that sufficient disclosure by the HCDP Task Committee was not provided, 
+  that a task was subdivided and proposed as multiple tasks in order to subvert the voting restrictions, or if any other reasonable concern is brought forward as deemed relevant by the President. 
+- The voting needs to be done in the Slack thread. It will be the duty of the DA who has created the task to follow up with the HCDP committee and ensure the voting. 
+- The form can be edited by the DA after posting the Task should the committee object to or want to add in any requirements. 
+  
+
+DA Reporting
+
+- The HCDP Task Committee should provide monthly reporting to the DA program on how many tasks were initiated and completed, as well as how many remain in progress. These reports should include details on 
+  token distributions and pertinent information for HCDP Committee Oversight.  
+  
+  
+
+HCDP Task Post Approval
+
+- The HCDP Task Form, if approved, should then be compiled as a non-editable document (pdf recommended) and be saved by the secretary for filing purpose and for all DAs to see. 
+- It’s also recommended to add a screenshot of the Thread in the form itself before closing it. 
+- The DA who has made this form can then remove it from their Google Drive if desired.
