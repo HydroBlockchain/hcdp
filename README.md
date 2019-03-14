@@ -20,3 +20,4 @@ The following is a list of all projects successfully completed as part of the HC
 ### Code Audits
 
 1. Hydro DA Smart Contract. This project was managed in [Issue #218](https://github.com/hydrogen-dev/hcdp/issues/218).
+.
