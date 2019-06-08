@@ -28,7 +28,7 @@ The following is a list of tasks **successfully completed** as part of the HCDP 
 
   * **Task Reference:** [Issue #264](https://github.com/HydroBlockchain/hcdp/issues/264).
   *  **Developer Bounty:** 4,000,000 Hydro
-  * **Author:** [@ricktobacco](https://github.com/ricktobacco)
+  * **Author:** [@kdmukai](https://github.com/kdmukai)
   * **Deliverable:** [Solidity Smart Contract](https://github.com/kdmukai/hydro-gift-card)
 
 
