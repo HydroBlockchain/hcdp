@@ -2,6 +2,10 @@
 
 The HCDP is a **core program** to Project Hydro. It is a collection of paid developer bounties **run by the Hydro Community** to advance the ecosystem or its products. Any community member can post and create a task for others to fulfill. These tasks could be for an SDK or library, dApps (Solidity), tutorials, enhancements and more. Tasks get assigned a bounty total and are paid upon fulfilling the requirements.
 
+#### Who can participate?
+
+Anyone can participate. Tasks get posted by the community and other community developers apply by filling out a form and commenting on the Github task. We review all applicants and their qualifications. An assignment is made with another Hydro Labs DA and project work beings. Milestones are set and checkins take place. Once a deliverable has been made, it is reviewed by the team or a 3rd party audit is preformed. There may be edits needed to code based on feedback. Once review has been complete, determined code is buttoned up and looks great, payment is made to the developer.
+
 
 # List of Completed Hydro Tasks:
 
