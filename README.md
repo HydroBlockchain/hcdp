@@ -53,6 +53,12 @@ The following is a list of tasks **successfully completed** as part of the HCDP 
   * **Author:** [@DaveM2011](https://github.com/DaveM2011), [@realquink](https://github.com/realquink), [@mitdralla](https://github.com/mitdralla)
   * **Deliverable:** [Joomla Plugin](https://github.com/DaveM2011/joomla-hydro-raindrop)
 
+* **[Raindrop Client - Laravel Plugin](https://github.com/HydroBlockchain/laravel-hydro-raindrop-demo):** Hydro Multi Factor Authentication Plugin (MFA) for Laravel adds another security layer to your website using blockchain-based authentication layer. It’s designed to work out of the box and offers unparalleled security standards for your website and your users, even beating google authenticator which is prone to phishing scams.
+  * **Task Reference:** [Issue #219](https://github.com/hydrogen-dev/hcdp/issues/272)
+  * **Developer Bounty:** 2,000,000 Hydro ([txn](https://etherscan.io/tx/0xd9c069eff117707498cd0960bec6e103b4ccbb3434a6bf203bda6bc429f2b6c1))
+  * **Author:** [@adrenth](https://github.com/adrenth), [@realquink](https://github.com/realquink), [@mitdralla](https://github.com/mitdralla)
+  * **Deliverable:** [Laravel Plugin](https://github.com/HydroBlockchain/laravel-hydro-raindrop-demo)
+
 * **[Raindrop Client - Passport.js Module](https://github.com/Red-Maximus/passport-raindrop):** Hydro Multi Factor Authentication Plugin (MFA) for Passport.js adds another security layer to your website using blockchain-based authentication layer. It’s designed to work out of the box and offers unparalleled security standards for your website and your users, even beating google authenticator which is prone to phishing scams.
   * **Task Reference:** [Issue #211](https://github.com/hydrogen-dev/hcdp/issues/211)
   * **Developer Bounty:** 500,000 Hydro ([txn](https://etherscan.io/tx/0x39dcb4b78e9cbf2967d53fbbf7e26db5dcefbbd6ef44215dd5cd25009c4b7dcf), [txn](https://etherscan.io/tx/0xad11932a322c152f7d4f78d0cd2eda019be24157b77d6fa469a195570683b033))
