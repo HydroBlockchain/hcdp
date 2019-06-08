@@ -82,4 +82,11 @@ The following is a list of tasks **successfully completed** as part of the HCDP 
 
 ## Hydro Code Audits:
 
-1. Hydro DA Smart Contract. Reference: [Issue #218](https://github.com/hydrogen-dev/hcdp/issues/218).
+* **[Decentralized Ambassador Smart Contract](https://github.com/HydroBlockchain/hcdp/issues/218):** The Decentralized Ambassador (DA) Program is an initiative to more heavily involve the Hydro community in the ongoing decentralization and global expansion of the Hydro blockchain ecosystem. This task is to evaluate the current master state of the Solidity code in the [DA Program smart contract](https://github.com/hydrogen-dev/smart-contracts/blob/master/decentralization-ambassadors/DA.sol), in order to identify any areas of potential improvement.
+
+  * **Task Reference:** [Issue #218](https://github.com/HydroBlockchain/hcdp/issues/218).
+  *  **Developer Bounty:** 450,000 Hydro ([txn](https://etherscan.io/tx/0x64703612480f77fd1d4a524226638e9f6ae2f81dc0152ad6f5658555a2317da1), [txn](https://etherscan.io/tx/0xa638103c1254667417d16bea8eb1442498028003e9f5e4564156a5e222bd09f9))
+  * **Author:** [@clemlak](https://github.com/brett91ag), [@samglos](https://github.com/samgos)
+  * **Deliverable:** [Smart Contract Audit](https://github.com/HydroBlockchain/smart-contracts/blob/master/decentralization-ambassadors/DA.sol)
+
+
