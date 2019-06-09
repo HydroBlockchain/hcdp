@@ -30,6 +30,13 @@ The following is a list of tasks **successfully completed** as part of the HCDP 
   * **Author:** [@ricktobacco](https://github.com/ricktobacco)
   * **Deliverable:** [Solidity Smart Contract](https://github.com/ricktobacco/hydro-glacier)
 
+* **[Hydro Product Orders](https://github.com/merlox/ethereum-store):** An Ethereum smart contract on top of Hydro Snowflake that allows you to publish products, purchase them with HYDRO and dispute orders in case there's any problem. Remember to install all the dependencies with npm i before running the tests or using the contracts. All the contract code is stored inside the contracts folder.
+
+  * **Task Reference:** [Issue #256](https://github.com/hydrogen-dev/hcdp/issues/256)
+  * **Developer Bounty:** 4,000,000 Hydro
+  * **Author:** [@merlox](https://github.com/merlox)
+  * **Deliverable:** [Smart Contract](https://github.com/merlox/ethereum-store)
+
 * **[Hydro Gift Cards](https://github.com/kdmukai/hydro-gift-card):** An Ethereum smart contract on top of Hydro Snowflake that allows a certain percentage of interest on a defined principal amount, in HYDRO, to accrue and be charged (or paid) to a wallet tied to a SnowflakeID, and then for that balance to automatically be withdrawn (or paid). The smart contract will guarantee that the money is in the account by enforcing an escrow of the accruing payment within the wallet, thus eliminating payment default, or fraud from institutions. This utility smart contract will power charging interest in many future savings, lending, credit, and mortgage Hydro dApps. There will be Layer-3 dApps and Layer-4 APIs that hook into this utility smart contract function.
 
   * **Task Reference:** [Issue #253](https://github.com/HydroBlockchain/hcdp/issues/253)
