@@ -65,11 +65,23 @@ The following is a list of tasks **successfully completed** as part of the HCDP 
   * **Author:** [@adrenth](https://github.com/adrenth), [@realquink](https://github.com/realquink), [@mitdralla](https://github.com/mitdralla)
   * **Deliverable:** [Laravel Plugin](https://github.com/HydroBlockchain/laravel-hydro-raindrop-demo)
 
+* **[Raindrop Client - SalesForce Plugin](https://github.com/brett91ag/salesforce-hydro-raindrop):** Hydro Multi Factor Authentication Plugin (MFA) for OctoberCMS adds another security layer to your website using blockchain-based authentication layer. It’s designed to work out of the box and offers unparalleled security standards for your website and your users, even beating google authenticator which is prone to phishing scams.
+  * **Task Reference:** [Issue #220](https://github.com/HydroBlockchain/hcdp/issues/220)
+  * **Developer Bounty:** 800,000 Hydro
+  * **Author:** [@brett91ag](https://github.com/brett91ag)
+  * **Deliverable:** [SalesForce Plugin](https://github.com/brett91ag/salesforce-hydro-raindrop)
+
+* **[Raindrop Client - Drupal Plugin](https://github.com/proofoftom/drupal-hydro-raindrop):** Hydro Multi Factor Authentication Plugin (MFA) for OctoberCMS adds another security layer to your website using blockchain-based authentication layer. It’s designed to work out of the box and offers unparalleled security standards for your website and your users, even beating google authenticator which is prone to phishing scams.
+  * **Task Reference:** [Issue #217](https://github.com/HydroBlockchain/hcdp/issues/217)
+  * **Developer Bounty:** 800,000 Hydro ([txn](https://etherscan.io/tx/0x7534fc14f6e742ceaeab3b28d723d8c72b8c61fb0d0e45b99940e4b6556ff741))
+  * **Author:** [@proofoftom](https://github.com/proofoftom)
+  * **Deliverable:** [Drupal Plugin](https://github.com/proofoftom/drupal-hydro-raindrop)
+
 * **[Raindrop Client - OctoberCMS Plugin](https://github.com/HydroBlockchain/oc-hydroraindrop-plugin):** Hydro Multi Factor Authentication Plugin (MFA) for OctoberCMS adds another security layer to your website using blockchain-based authentication layer. It’s designed to work out of the box and offers unparalleled security standards for your website and your users, even beating google authenticator which is prone to phishing scams.
   * **Task Reference:** [Issue #254](https://github.com/HydroBlockchain/hcdp/issues/258)
   * **Developer Bounty:** 800,000 Hydro ([txn](https://etherscan.io/tx/0x5c0f49d59d7fa5ae11503796039f481c2c40003e598d16e937b4ce3f90a44d28))
   * **Author:** [@crypt0h3nk](https://github.com/crypt0h3nk)
-  * **Deliverable:** [Smart Contract](https://github.com/HydroBlockchain/oc-hydroraindrop-plugin)
+  * **Deliverable:** [OctoberCMS Plugin](https://github.com/HydroBlockchain/oc-hydroraindrop-plugin)
 
 * **[Raindrop Client - Passport.js Module](https://github.com/Red-Maximus/passport-raindrop):** Hydro Multi Factor Authentication Plugin (MFA) for Passport.js adds another security layer to your website using blockchain-based authentication layer. It’s designed to work out of the box and offers unparalleled security standards for your website and your users, even beating google authenticator which is prone to phishing scams.
   * **Task Reference:** [Issue #211](https://github.com/hydrogen-dev/hcdp/issues/211)
@@ -114,7 +126,7 @@ The following is a list of tasks **successfully completed** as part of the HCDP 
   * **Deliverable:** [Smart Contract Audit](https://github.com/HydroBlockchain/smart-contracts/blob/master/decentralization-ambassadors/DA.sol)
 
 
-## Misc:
+## Misc Development:
 
 * **[Hydro Raindrop Wordpress Testing](https://github.com/HydroBlockchain/hcdp/issues/236):** Testing and quality evaluation of the Hydro Raindrop Wordpress Plugin code, functionality and front end UI. 
   * **Task Reference:** [Issue #236](https://github.com/HydroBlockchain/hcdp/issues/236)
