@@ -6,7 +6,7 @@ The HCDP is a **core program** to Project Hydro. It is a collection of paid deve
 
 #### Participation & Process
 
-Anyone can participate. Tasks get posted by the community and other community developers apply by filling out a form and commenting on the Github task. We review all applicants and their qualifications. An assignment is made with another Hydro Labs DA and project work begins. Milestones are set and checkins take place. Once a deliverable has been made, it is reviewed by the team or a 3rd party audit is preformed. There may be edits needed to code based on feedback. Once a code review is complete, code is buttoned up with a descriptive readme file and looks great, payment is made to the developer.
+Anyone can participate. Tasks get posted by the community and other community developers apply by filling out a form and commenting on the Github task. We review all applicants and their qualifications. An assignment is made with another Hydro Labs DA and project work begins. Milestones are set and checkins take place. Once a deliverable has been made, it is reviewed by the team or a 3rd party audit is preformed. There may be edits needed to code based on feedback. Once a code review is complete, code is buttoned up with a descriptive readme file and looks great, payment is made to the developer. [Read more here](https://github.com/HydroBlockchain/hcdp/blob/master/Hydro%20HCDP%20Task%20Approval%20Process).
 
 
 # List of Completed Hydro Tasks:
