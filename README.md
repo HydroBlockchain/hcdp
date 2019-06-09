@@ -37,7 +37,7 @@ The following is a list of tasks **successfully completed** as part of the HCDP 
   * **Author:** [@kdmukai](https://github.com/kdmukai)
   * **Deliverable:** [Solidity Smart Contract](https://github.com/kdmukai/hydro-gift-card)
 
-* **[Hydro Invoicing](https://github.com/clemlak/SnowflakeInvoicing):** Snowflake Invoicing allows a business to invoice another business or consumer for a specific amount, on a specified date, and in a certain amount of Hydro. This Ethereum smart contract is built on top of Hydro Snowflake.
+* **[Hydro Invoicing](https://github.com/clemlak/SnowflakeInvoicing):** An Ethereum smart contract on top of Hydro Snowflake that allows a business to invoice another business or consumer for a specific amount, on a specified date, and in a certain amount of Hydro. This Ethereum smart contract is built on top of Hydro Snowflake.
   * **Task Reference:** [Issue #254](https://github.com/hydrogen-dev/hcdp/issues/254)
   * **Developer Bounty:** 3,000,000 Hydro
   * **Author:** [@clemlak](https://github.com/clemlak)
@@ -112,3 +112,27 @@ The following is a list of tasks **successfully completed** as part of the HCDP 
   *  **Developer Bounty:** 450,000 Hydro ([txn](https://etherscan.io/tx/0x64703612480f77fd1d4a524226638e9f6ae2f81dc0152ad6f5658555a2317da1), [txn](https://etherscan.io/tx/0xa638103c1254667417d16bea8eb1442498028003e9f5e4564156a5e222bd09f9))
   * **Author:** [@clemlak](https://github.com/brett91ag), [@samglos](https://github.com/samgos)
   * **Deliverable:** [Smart Contract Audit](https://github.com/HydroBlockchain/smart-contracts/blob/master/decentralization-ambassadors/DA.sol)
+
+
+## Misc:
+
+* **[Hydro Raindrop Wordpress Testing](https://github.com/HydroBlockchain/hcdp/issues/236):** Testing and quality evaluation of the Hydro Raindrop Wordpress Plugin code, functionality and front end UI. 
+  * **Task Reference:** [Issue #236](https://github.com/HydroBlockchain/hcdp/issues/236)
+  * **Developer Bounty:** 200,000 Hydro ([txn](https://etherscan.io/tx/0xc292c3ab327fa303453b7dfc7ae246d0de1529344d80644e9ecf4aecb15b7017), [txn](https://etherscan.io/tx/0xb72e5b379f8c81914f7fcc56c38d15a3db79a61dfb44508b03874ba069177501), [txn](https://etherscan.io/tx/0xbceffe3a0ddb2f41b2134b2c47bf4d881dc492f5689bcc755e81eaeb97c3b86f))
+  * **Author:** [@adrenth](https://github.com/adrenth), [@realquink](https://github.com/realquink), [@Riskex1](https://github.com/Riskex1)
+  * **Deliverable:** [Testing](https://github.com/HydroBlockchain/hcdp/issues/236)
+
+
+* **[Snowflake Identicon Generator -  Library](https://github.com/HydroBlockchain/hcdp/issues/218):** The Decentralized Ambassador (DA) Program is an initiative to more heavily involve the Hydro community in the ongoing decentralization and global expansion of the Hydro blockchain ecosystem. This task is to evaluate the current master state of the Solidity code in the [DA Program smart contract](https://github.com/hydrogen-dev/smart-contracts/blob/master/decentralization-ambassadors/DA.sol), in order to identify any areas of potential improvement.
+
+  * **Task Reference:** [Issue #221](https://github.com/HydroBlockchain/hcdp/issues/221)
+  *  **Developer Bounty:** 600,000 Hydro ([txn](https://etherscan.io/tx/0x64703612480f77fd1d4a524226638e9f6ae2f81dc0152ad6f5658555a2317da1), [txn](https://etherscan.io/tx/0xa638103c1254667417d16bea8eb1442498028003e9f5e4564156a5e222bd09f9))
+  * **Author:** [@cyphercodes96](https://github.com/cyphercodes96), [@Amirh24](https://github.com/Amirh24)
+  * **Deliverable:** [Smart Contract Audit](https://github.com/HydroBlockchain/smart-contracts/blob/master/decentralization-ambassadors/DA.sol)
+
+* **[Snowflake Identicon Generator -  Design](https://github.com/HydroBlockchain/hcdp/issues/226):** The Decentralized Ambassador (DA) Program is an initiative to more heavily involve the Hydro community in the ongoing decentralization and global expansion of the Hydro blockchain ecosystem. This task is to evaluate the current master state of the Solidity code in the [DA Program smart contract](https://github.com/hydrogen-dev/smart-contracts/blob/master/decentralization-ambassadors/DA.sol), in order to identify any areas of potential improvement.
+
+  * **Task Reference:** [Issue #226](https://github.com/HydroBlockchain/hcdp/issues/226)
+  *  **Developer Bounty:** 600,000 Hydro ([txn](https://etherscan.io/tx/0xf341ebef90e1c36f66e878405ec55a7aebfb1466ab5566b6d081a32c8ae7a645))
+  * **Author:** [@puppetbrain](https://github.com/puppetbrain)
+  * **Deliverable:** [Snowflake Design Assets](https://github.com/HydroBlockchain/hcdp/issues/226)
