@@ -19,34 +19,34 @@ The following is a list of tasks **successfully completed** as part of the HCDP 
 * **[Hydro Lottery](https://github.com/merlox/hydro-lottery):** An Ethereum smart contract uses Hydro Snowflake Ids (EINs) for creating unique lotteries with rewards setup in HYDRO tokens instead of ETH. It's made of an HydroEscrow contract that holds HYDRO for each unique lottery, a Randomizer contract that generates random numbers with Oracles for creating unique, secure randomized numbers for selecting winners and a HydroLottery contract that takes care of the main logic.
 
   * **Task Reference:** [Issue #256](https://github.com/HydroBlockchain/hcdp/issues/256)
-  *  **Developer Bounty:** 4,000,000 Hydro
+  *  **Developer Bounty:** 4,000,000 Hydro ([txn](https://etherscan.io/tx/0x518aba6e649395707bc62290cc01bf94dcfd7a694d57b0501c943486b9f0254e))
   * **Author:** [@merlox](https://github.com/merlox)
   * **Deliverable:** [Solidity Smart Contract](https://github.com/merlox/hydro-lottery)
   
 * **[Hydro Interest](https://github.com/ricktobacco/hydro-glacier):** An Ethereum smart contract on top of Hydro Snowflake that allows a certain percentage of interest on a defined principal amount, in HYDRO, to accrue and be charged (or paid) to a wallet tied to a SnowflakeID, and then for that balance to automatically be withdrawn (or paid). The smart contract will guarantee that the money is in the account by enforcing an escrow of the accruing payment within the wallet, thus eliminating payment default, or fraud from institutions. This utility smart contract will power charging interest in many future savings, lending, credit, and mortgage Hydro dApps. There will be Layer-3 dApps and Layer-4 APIs that hook into this utility smart contract function.
 
   * **Task Reference:** [Issue #264](https://github.com/HydroBlockchain/hcdp/issues/264)
-  *  **Developer Bounty:** 4,000,000 Hydro
+  *  **Developer Bounty:** 4,000,000 Hydro ([txn](https://etherscan.io/tx/0x729dad0bc8b02b0eade7c1dfbb50dfbeae1e5a15efe34e4c18460511e4cd830c))
   * **Author:** [@ricktobacco](https://github.com/ricktobacco)
   * **Deliverable:** [Solidity Smart Contract](https://github.com/ricktobacco/hydro-glacier)
 
 * **[Hydro Product Orders](https://github.com/merlox/ethereum-store):** An Ethereum smart contract on top of Hydro Snowflake that allows you to publish products, purchase them with HYDRO and dispute orders in case there's any problem. Remember to install all the dependencies with npm i before running the tests or using the contracts. All the contract code is stored inside the contracts folder.
 
   * **Task Reference:** [Issue #256](https://github.com/hydrogen-dev/hcdp/issues/256)
-  * **Developer Bounty:** 4,000,000 Hydro
+  * **Developer Bounty:** 4,000,000 Hydro ([txn](https://etherscan.io/tx/0x004492c489d34d08863eea4c38399b2c8ea5f56a9619283512d75b1f2a1ec20e))
   * **Author:** [@merlox](https://github.com/merlox)
   * **Deliverable:** [Smart Contract](https://github.com/merlox/ethereum-store)
 
 * **[Hydro Gift Cards](https://github.com/kdmukai/hydro-gift-card):** An Ethereum smart contract on top of Hydro Snowflake that allows a certain percentage of interest on a defined principal amount, in HYDRO, to accrue and be charged (or paid) to a wallet tied to a SnowflakeID, and then for that balance to automatically be withdrawn (or paid). The smart contract will guarantee that the money is in the account by enforcing an escrow of the accruing payment within the wallet, thus eliminating payment default, or fraud from institutions. This utility smart contract will power charging interest in many future savings, lending, credit, and mortgage Hydro dApps. There will be Layer-3 dApps and Layer-4 APIs that hook into this utility smart contract function.
 
   * **Task Reference:** [Issue #253](https://github.com/HydroBlockchain/hcdp/issues/253)
-  *  **Developer Bounty:** 4,000,000 Hydro
+  *  **Developer Bounty:** 4,000,000 Hydro ([txn](https://etherscan.io/tx/0x0369acb8927b311a64a4c0f59d57f8f48e2f8c7b7003eccc8c26ce659e50aafc))
   * **Author:** [@kdmukai](https://github.com/kdmukai)
   * **Deliverable:** [Solidity Smart Contract](https://github.com/kdmukai/hydro-gift-card)
 
 * **[Hydro Invoicing](https://github.com/clemlak/SnowflakeInvoicing):** An Ethereum smart contract on top of Hydro Snowflake that allows a business to invoice another business or consumer for a specific amount, on a specified date, and in a certain amount of Hydro. This Ethereum smart contract is built on top of Hydro Snowflake.
   * **Task Reference:** [Issue #254](https://github.com/hydrogen-dev/hcdp/issues/254)
-  * **Developer Bounty:** 3,000,000 Hydro
+  * **Developer Bounty:** 3,000,000 Hydro ([txn](https://etherscan.io/tx/0xdcf425dcd9dbb34f62fc33ce99c5cd96b2ee0adc1e08f95167df0ef18486e74f))
   * **Author:** [@clemlak](https://github.com/clemlak)
   * **Deliverable:** [Smart Contract](https://github.com/clemlak/SnowflakeInvoicing)
 
@@ -56,7 +56,7 @@ The following is a list of tasks **successfully completed** as part of the HCDP 
 
 * **[Raindrop Client - Wordpress Plugin](https://wordpress.org/plugins/wp-hydro-raindrop/):** Hydro Multi Factor Authentication Plugin (MFA) for Wordpress adds another security layer to your website using blockchain-based authentication layer. It’s designed to work out of the box and offers unparalleled security standards for your website and your users, even beating google authenticator which is prone to phishing scams.
   * **Task Reference:** [Issue #202](https://github.com/hydrogen-dev/hcdp/issues/202), [Issue #223](https://github.com/hydrogen-dev/hcdp/issues/223), and [Issue #230](https://github.com/hydrogen-dev/hcdp/issues/230)
-  * **Developer Bounty:** 500,000 Hydro
+  * **Developer Bounty:** 500,000 Hydro ([txn](https://etherscan.io/tx/0x642f95b71390eec2d78770efebd93f7b7bbfd3e13e5fd0ae233fb9e70f1633f8), [txn](https://etherscan.io/tx/0xe9014233fc58c530e735bb25fd4a7f7e080ba7817362935b21e38444905f1e75), [txn](https://etherscan.io/tx/0x10cd4cbac8157cbd11b9aa1cd1b6297dfa4c3d03212c3734a38288aa444985b0))
   * **Author:** [@adrenth](https://github.com/adrenth)
   * **Deliverable:** [Wordpress Plugin](https://wordpress.org/plugins/wp-hydro-raindrop/)
  
