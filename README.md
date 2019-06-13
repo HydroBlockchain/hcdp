@@ -19,7 +19,7 @@ The following is a list of tasks **successfully completed** as part of the HCDP 
 * **[Hydro Marketplace Coupons](https://github.com/Luiserebii/HydroSnowflake-Marketplace-Coupons):** This project is essentially a chain of Ethereum smart contracts built on top of the Hydro Snowflake protocol, aiming to provide a marketplace platform for sellers to launch their own stores and sell to users. Coupons are also featured, allowing users to use globally defined coupons guaranteed to expire within a certain time period, or assigning coupons per Snowflake EIN, manageable via multiple addresses. The marketplace itself is a Snowflake Resolver contract, which interacts with a Snowflake Via contract to handle the transaction (and thus coupon discount) logic.
 
   * **Task Reference:** [Issue #255](https://github.com/HydroBlockchain/hcdp/issues/255)
-  *  **Developer Bounty:** 4,000,000 Hydro ([txn](https://etherscan.io/tx/0x519737ef1da37040e591853177307187ab215d3d151f11ff41241a5a562082da))
+  *  **Developer Bounty:** 3,000,000 Hydro ([txn](https://etherscan.io/tx/0x519737ef1da37040e591853177307187ab215d3d151f11ff41241a5a562082da))
   * **Author:** [@Luiserebii](https://github.com/Luiserebii)
   * **Deliverable:** [Solidity Smart Contract](https://github.com/Luiserebii/HydroSnowflake-Marketplace-Coupons)
   
