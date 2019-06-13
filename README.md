@@ -16,6 +16,16 @@ The following is a list of tasks **successfully completed** as part of the HCDP 
 
 ## Hydro Smart Contracts:
 
+* **[Hydro Marketplace Coupons](https://github.com/Luiserebii/HydroSnowflake-Marketplace-Coupons):** This project is essentially a chain of Ethereum smart contracts built on top of the Hydro Snowflake protocol, aiming to provide a marketplace platform for sellers to launch their own stores and sell to users. Coupons are also featured, allowing users to use globally defined coupons guaranteed to expire within a certain time period, or assigning coupons per Snowflake EIN, manageable via multiple addresses.
+
+The marketplace itself is a Snowflake Resolver contract, which interacts with a Snowflake Via contract to handle the transaction (and thus coupon discount) logic.
+
+  * **Task Reference:** [Issue #255](https://github.com/HydroBlockchain/hcdp/issues/255)
+  *  **Developer Bounty:** 4,000,000 Hydro ([txn](https://etherscan.io/tx/0x519737ef1da37040e591853177307187ab215d3d151f11ff41241a5a562082da))
+  * **Author:** [@Luiserebii](https://github.com/Luiserebii)
+  * **Deliverable:** [Solidity Smart Contract](https://github.com/Luiserebii/HydroSnowflake-Marketplace-Coupons)
+  
+
 * **[Hydro Lottery](https://github.com/merlox/hydro-lottery):** An Ethereum smart contract uses Hydro Snowflake Ids (EINs) for creating unique lotteries with rewards setup in HYDRO tokens instead of ETH. It's made of an HydroEscrow contract that holds HYDRO for each unique lottery, a Randomizer contract that generates random numbers with Oracles for creating unique, secure randomized numbers for selecting winners and a HydroLottery contract that takes care of the main logic.
 
   * **Task Reference:** [Issue #256](https://github.com/HydroBlockchain/hcdp/issues/256)
@@ -49,6 +59,13 @@ The following is a list of tasks **successfully completed** as part of the HCDP 
   * **Developer Bounty:** 3,000,000 Hydro ([txn](https://etherscan.io/tx/0xdcf425dcd9dbb34f62fc33ce99c5cd96b2ee0adc1e08f95167df0ef18486e74f))
   * **Author:** [@clemlak](https://github.com/clemlak)
   * **Deliverable:** [Smart Contract](https://github.com/clemlak/SnowflakeInvoicing)
+  
+  
+ * **[Hydro Finance](https://github.com/merlox/hydro-finance):** An Ethereum smart contract on top of Hydro Snowflake that stores your credit cards, bank and investment accounts in one solidity contract named HydroFinance.sol using encryption to secure data on the blockchain. It receives the credit card data, encrypts it using your unique EIN identifier and stores that information into your user account. You can then generate the encryption result off-chain using web3.utils.soliditySha3() and your required parameters, to generate the hash that you can use to verify your account. This is the only method to securely protect data on the open blockchain since we can't store sensitive information without encryptions.
+  * **Task Reference:** [Issue #257](https://github.com/hydrogen-dev/hcdp/issues/257)
+  * **Developer Bounty:** 3,000,000 Hydro ([txn](https://etherscan.io/tx/0xfee2a17e2c67f9a32baa4bf4e86e690d4b0f8089a4114ce59d9d64723d26eec9))
+  * **Author:** [@merlox](https://github.com/merlox)
+  * **Deliverable:** [Smart Contract](https://github.com/merlox/hydro-finance)
 
 
 ## 3rd Party Hydro Plugins:
